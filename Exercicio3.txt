@@ -1,0 +1,10 @@
+Dados no cotidiano
+1 - Nome de uma pessoa. Tipo String.
+2 - A idade de uma pessoa. Tipo number 
+3 - A comida ta pronta? Tipo Boolean.
+
+
+Dados na internet
+1 - O usuário já é cadastrado? Boolean
+2 - Endereço de email. String
+3 - A mensagem escrita em uma postagem. String

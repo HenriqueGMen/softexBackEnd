@@ -1,0 +1,19 @@
+Structure patterns:
+
+Structure patterns ou padrões estruturais são padrões que visam a forma como as classes e objetos são formados para estruturar grandes
+projetos, para isso os padrões de classe utilizam a herança na composição de interfaces e implementações. Ao invés de compor 
+interfaces ou implementações, os padrões estruturais de objetos descrevem maneiras de compor objetos para obter novas funcionalidades. 
+Diferente do que acontece com a composição de hierarquia de classes estáticas, ela tem um versatilidade adquirida pela composição de
+objetos que tem a capacidade de mudar a composição em tempo de execução.  
+
+- Adapter: Padrão que converte uma interface de uma classe em uma nova interface esperada. Assim é aceitado o trabalho em conjuto de
+interfaces incompativeis, o que de outra forma não seria possivel. 
+
+  - Vantagens: O princípio de responsabilidade única faz com que o programa principal seja separado da interface e das lógicas
+  primárias. Também é possível, trabalhando através de interfaces, adicionar novos adaptadores sem romper o código existente.
+  - Desvantagens: A necessidade de se implementar interfaces deixa o código mais complexo.
+
+
+Referências: 
+1. https://refactoring.guru/pt-br/design-patterns/structural-patterns
+2. https://www.ic.unicamp.br/~vanini/mc302/PadroesDeProjeto.pdf
