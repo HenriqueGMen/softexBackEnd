@@ -3,6 +3,6 @@
 # Instale as dependências
 $ npm install ou yarn
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute a aplicação
 $ node index.js
 ```
