@@ -1,0 +1,2 @@
+- O editor escolhido para escrever os códigos durante o curso foi o VS Code por ser uma ferramenta simple, leve e tambem pelo seu alto numero de extensões e customizações
+ajudando na produtividade para escrever códigos.
